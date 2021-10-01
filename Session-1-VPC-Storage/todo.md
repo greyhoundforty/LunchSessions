@@ -1,0 +1,3 @@
+ - [ ] Gather overview info for Block/File/Instance storage
+ - [ ] Gather overview info for Snapshots
+ - [ ] Deploy test VPC instances with instance and non-instance data volumes
